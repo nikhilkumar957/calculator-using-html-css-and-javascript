@@ -1,0 +1,15 @@
+.button{
+    background-color: yellowgreen;
+}
+.display-box{
+    background-color: bisque;
+}
+.name{
+    margin-left: 625px;
+    margin-top: 100px;
+}
+.table{
+    align-items: centre;
+    margin-left: 600px;
+    margin-top: 50px;
+}
